@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": { "*.vue": "vue" },
+  "eslint.validate": ["javascript"],
+  "cSpell.words": ["Fooo", "Foooo", "nuxt", "stylelint"]
+}
